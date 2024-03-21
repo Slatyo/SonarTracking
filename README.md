@@ -16,7 +16,8 @@ The echo sounder we had on board showed similar values for this depth.
 After roughly 10-12 meters it started to get unprecise and at a depth of 18 meters or more it stopped reliably working in the first test.  
 The video just shows the setup used on the boat.
 
-<img src="resources/images/9m.jpeg" alt="9m-test" width="350"/>
+<img src="resources/images/9m.jpeg" alt="9m-test" width="350"/>  
+
 <video src="resources/videos/SonarSetupBoat.mp4" width="240" height="380" controls></video>
 
 ### Circuit
