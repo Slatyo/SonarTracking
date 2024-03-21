@@ -18,7 +18,7 @@ The video just shows the setup used on the boat.
 
 <img src="resources/images/9m.jpeg" alt="9m-test" width="350"/>  
 
-<video src="resources/videos/SonarSetupBoat.mp4" width="240" height="380" controls></video>
+https://github.com/Slatyo/SonarTracking/assets/21217262/6796917c-54d1-4716-85a9-6f0faa388260
 
 ### Circuit
 Work in progress
