@@ -49,18 +49,3 @@ This project is just a way for me to learn my ways around microcontrollers and s
 
 ### Circuit
 Work in progress
-
-### Products  
-  
-Will be updated as we go. Pretty much everything listed I already have bought. Just not implemented yet.  
-
-| Image  |  Product | Currently using |
-|---|---|---|
-|  <img src="https://m.media-amazon.com/images/I/61xBvJSBunL._AC_SX679_.jpg" alt="Arduino UNO R3" width="200"/> | [Arduino Uno R3](https://amzn.to/4as1Q4x)  | Yes |
-|  <img src="https://m.media-amazon.com/images/I/61593VeySrL._SX522_.jpg" alt="DS18B20" width="200"/> | [DS18B20](https://amzn.to/4cpJy5C)  | No |
-|  <img src="https://m.media-amazon.com/images/I/41X09w8rXGS.jpg" alt="JSN-SR04T Ultrasonic" width="200"/> | [JSN-SR04T Ultrasonic](https://amzn.to/3TAsHEK)  | Yes |
-|  <img src="https://m.media-amazon.com/images/I/51zNzXv-CbS._AC_SY450_.jpg" alt="OLED Parent 128 x 64 Pixel" width="200"/> | [OLED Parent 128 x 64 Pixel](https://amzn.to/4a7SoDt)  | Yes |
-|  <img src="https://m.media-amazon.com/images/I/51rEQ0fH5kL._AC_SY450_.jpg" alt="Jumper Wire" width="200"/> | [Jumper Wire](https://amzn.to/3TqtLe1)  | Yes |
-|  <img src="https://m.media-amazon.com/images/I/71UyYP0vEHL._SX522_.jpg" alt="ESP8266 ESP12F" width="200"/> | [ESP8266 ESP12F](https://amzn.to/4a3LC1n)  | No |
-|  <img src="https://m.media-amazon.com/images/I/71LeaLrDfcL._SX522_.jpg" alt="Youmile Uno R3 Case" width="200"/> | [Youmile Uno R3 Case](https://amzn.to/3TtCfRQ)  | Yes |
-|  <img src="https://m.media-amazon.com/images/I/61Tp+NqH0sL._AC_SX679_.jpg" alt="Aideepen GPS Module" width="200"/> | [Aideepen GPS Module](https://amzn.to/4cvJwcC)  | No |
